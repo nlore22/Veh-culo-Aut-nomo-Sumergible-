@@ -6,8 +6,20 @@ Este proyecto se centro en el diseño mecánico de un AUV así como de la elecci
 El vehículo se inspiró en un tiburón ballena (para las aletas) y una tortuga (para el caparazón), pues se buscó que fuera lo más adaptativo para la aplicación:
 ![Captura de pantalla 2024-06-25 124039](https://github.com/user-attachments/assets/79b0eee9-380c-4319-b7e3-0b3073643c4d)
 
+#Diseño de aletas
 Las aletas se diseñaron siguiendo el patrón de Fibonacci, lo que garantizó una armonía de dimensión en el diseño:
 ![Captura de pantalla 2024-06-27 110105](https://github.com/user-attachments/assets/ac612e7e-319a-4151-8df0-387de6bc3710)
+
+![Captura de pantalla 2024-07-01 134800](https://github.com/user-attachments/assets/d4d12ec2-1d20-41df-9ea0-a65f3d349171)
+
+# Diseño de mecanismo de giro
+Se diseño un mecanismo de engranajes conicos, los cuales estaban enlazados directamente al motor, lo que permitio el giro de las turbinas: 
+
+![Imagen de WhatsApp 2024-07-29 a las 12 49 46_15498179](https://github.com/user-attachments/assets/e689743e-1570-4057-9b49-bf866c5a97db)
+
+# Diseño de alerones:
+![Captura de pantalla 2024-07-25 231551](https://github.com/user-attachments/assets/b9e73b0d-d33b-4e7f-941c-0501d0bb6d79)
+
 
 Se utilizaron motores brushless, pues estos motores son los más idealespara la aplicación, entre sus ventajas encontramos:
 Menor mantenimiento 
