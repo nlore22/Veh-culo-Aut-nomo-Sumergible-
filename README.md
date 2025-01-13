@@ -16,9 +16,11 @@ Mejor rendimiento
 Mayor control y precisión
 
 Siendo todas las anteriores escenciales para un correcto funcionamiento debajo del agua:
+
 ![download](https://github.com/user-attachments/assets/64718d3a-0d09-4b66-ab4d-35ac93bc3af7)
 
 Para el control, se hicieron pruebas con la tarjeta Raspberry Pi 4, esto pensando en su versatilidad, bajo consumo de energía, así cómo de la disponibilidad de puertos y usos para la IA:
+
 ![OIP](https://github.com/user-attachments/assets/373fff0b-2990-4e35-88d9-165d60768311)
 
 # Diseño final:
